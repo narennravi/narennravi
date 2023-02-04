@@ -1,6 +1,6 @@
 - 👋 Hi, This is Narendran (@narennravi)
 - 👀 Interested in Learning new thought process in Work culture
-- 🌱 Pursuing advanced Data Science Certification course in IIT-madras [Guvi]
+- 🌱 Pursuing advanced Master Data Science program in IITM - [Guvi]
 - 📫 Reach me out:
 -               --> narendran14199@gmail.com
 -               --> linkedin.com/in/narendran-r-a98b921a9

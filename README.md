@@ -1,5 +1,5 @@
 - 👋 Hi, This is Narendran (@narennravi)
-- 👀 Interested in Learning new thought process in Work culture
+- 👀 Interested in Learning & implementing earned skill in Work culture
 - 🌱 Pursuing advanced Master Data Science program in IITM - [Guvi]
 - 📫 Reach me out:
 -               --> narendran14199@gmail.com

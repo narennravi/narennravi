@@ -2,8 +2,9 @@
 - 👀 Interested in Learning & implementing earned skill in Work culture
 - 🌱 Pursuing advanced Master Data Science program in IITM - [Guvi]
 - 📫 Reach me out:
--               --> narendran14199@gmail.com
--               --> linkedin.com/in/narendran-r-a98b921a9
+-             MAIL idy      --> narendran14199@gmail.com
+-             LINKEDIN idy  --> linkedin.com/in/narendran-r-a98b921a9
+-             Instagram     --> narenn__ravi
                   
                   
 <!---

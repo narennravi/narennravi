@@ -1,6 +1,6 @@
 - 👋 Hi, this is Narendran (@narennravi)
 - 👀 My personal interest to explore professional skill-set in Data-Science | AI | Machine-learning | Linux Device driver development. 
-- 🌱 Completed Master Data Science program in IITM - [Guvi]
+- 🌱 Completed Advanced Master Data Science in IITM - [Guvi]
 - 📫 Reach me out:
 -             MAIL idy      --> narendran14199@gmail.com
 -             LINKEDIN idy  --> linkedin.com/in/narendran-r-a98b921a9
